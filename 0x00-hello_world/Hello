@@ -1,7 +1,0 @@
-#include <stdio.h>
-#define PRINTTHIS “Hello World\n"
-
-void main()
-{
-printf(PRINTTHIS);
-}

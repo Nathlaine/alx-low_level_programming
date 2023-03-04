@@ -1,11 +1,8 @@
 #include "main.h"
-
 /**
-* main - printing letters using putchar.
-* Return: Run 0
-*
-*/
-
+ * main - print putchar
+ * Return: 0
+ */
 int main(void)
 {
 	_putchar('_');
